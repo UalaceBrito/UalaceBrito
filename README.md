@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Ualace Brito 😁
+## Bem-vindo(a) ao perfil do Uálace Brito 😁
 
  <div>
    <a href="https://github.com/UalaceBrito">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Conteúdo sobre programação... Me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@Dev.Full-Stack-ADM" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

@@ -1,7 +1,7 @@
 <!-- BANNER ANIMADO COM TEXTO DIGITADO -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=3A8DFF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+U%C3%A1lace+Brito!+%F0%9F%91%8B+Estudante+de+Engenharia+de+Software+%7C+Full+Stack;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Bem-vindo(a)+ao+meu+universo+dev!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=3A8DFF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+U%C3%A1lace+Brito!+%F0%9F%91%8B;+Estudante+de+Engenharia+de+Software+%7C+Full+Stack;Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Bem-vindo(a)+ao+meu+universo+dev!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 

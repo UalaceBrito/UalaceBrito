@@ -17,21 +17,29 @@
 <br />
 
 <p align="center">
-  <pre>
-  ████████╗██████╗  ██████╗ ███████╗██╗   ██╗███████╗
-  ╚══██╔══╝██╔══██╗██╔═══██╗██╔════╝██║   ██║██╔════╝
-     ██║   ██████╔╝██║   ██║█████╗  ██║   ██║███████╗
-     ██║   ██╔══██╗██║   ██║██╔══╝  ██║   ██║╚════██║
-     ██║   ██║  ██║╚██████╔╝██║     ╚██████╔╝███████║
-     ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝      ╚═════╝ ╚══════╝
-  </pre>
-  <br />
+  <!-- Fundo estilo Matrix + Nome Animado + Frase Hacker -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=U%C3%81LACE+BRITO;ROOT+ACCESS+GRANTED;SYSTEM+ONLINE;TROPHY+VAULT+UNLOCKED" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=U%C3%81LACE+BRITO;ROOT+ACCESS+GRANTED;SYSTEM+ONLINE;TROPHY+VAULT+UNLOCKED" alt="Nome animado estilo hacker" />
+  </picture>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/output/matrix.svg" width="600" alt="Matrix Rain Background" />
+</div>
+
+<p align="center">
   <samp>
-    >_ ACESSO LIBERADO: SISTEMA DE CONQUISTAS <br />
-    >_ COMPILANDO TROFÉUS... [████████████████████] 100%
+    <b style="color:#00FF41;">>_ STATUS: CONECTADO À MATRIX</b><br />
+    <b style="color:#00FF41;">>_ COMPILANDO TROFÉUS... [████████████████████] 100%</b><br />
+    <b style="color:#00FF41;">>_ FRASE DO DIA: "Hack the planet!" 🌐</b>
   </samp>
 </p>
 
+<!-- TROFÉUS REAIS DO GITHUB (TEMA MATRIX) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&theme=matrix&margin-w=10&no-bg=false&row=1&column=6" alt="Troféus do GitHub no tema Matrix" />
+</p>
 ---
 
 ### 🧑‍💻 Sobre mim

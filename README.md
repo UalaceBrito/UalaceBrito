@@ -17,9 +17,9 @@
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-  <h3 align="center">🏆 Troféus do Perfil 🏆</h3>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <img src="https://img.shields.io/badge/🏆_TROFÉUS-DEV__HACKER-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="Troféus Hacker" />
+  <br />
+  <img src="https://img.shields.io/badge/STATUS-ROOT_ACCESS-00FF41?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
 ---

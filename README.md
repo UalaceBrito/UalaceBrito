@@ -17,9 +17,11 @@
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_TROFÉUS-DEV__HACKER-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="Troféus Hacker" />
-  <br />
-  <img src="https://img.shields.io/badge/STATUS-ROOT_ACCESS-00FF41?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆_TROFÉUS-DEV__HACKER-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&theme=matrix&margin-w=10&no-bg=true&row=1&column=6" />
 </p>
 
 ---

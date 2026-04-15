@@ -196,17 +196,6 @@
 
 ---
 
-### 🐍 Contribuições Animadas (Snake)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UalaceBrito/UalaceBrito/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UalaceBrito/UalaceBrito/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação da cobrinha das contribuições" src="https://raw.githubusercontent.com/UalaceBrito/UalaceBrito/output/github-contribution-grid-snake.svg" width="85%" />
-  </picture>
-</div>
----
-
 ### 📈 Atividade Recente
 
 <!-- WAKATIME (opcional - requer conta e chave) -->

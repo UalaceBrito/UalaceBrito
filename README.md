@@ -17,11 +17,19 @@
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_TROFÉUS-DEV__HACKER-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&theme=matrix&margin-w=10&no-bg=true&row=1&column=6" />
+  <pre>
+  ████████╗██████╗  ██████╗ ███████╗██╗   ██╗███████╗
+  ╚══██╔══╝██╔══██╗██╔═══██╗██╔════╝██║   ██║██╔════╝
+     ██║   ██████╔╝██║   ██║█████╗  ██║   ██║███████╗
+     ██║   ██╔══██╗██║   ██║██╔══╝  ██║   ██║╚════██║
+     ██║   ██║  ██║╚██████╔╝██║     ╚██████╔╝███████║
+     ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝      ╚═════╝ ╚══════╝
+  </pre>
+  <br />
+  <samp>
+    >_ ACESSO LIBERADO: SISTEMA DE CONQUISTAS <br />
+    >_ COMPILANDO TROFÉUS... [████████████████████] 100%
+  </samp>
 </p>
 
 ---

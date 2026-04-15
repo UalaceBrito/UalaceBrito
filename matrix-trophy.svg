@@ -1,0 +1,47 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo Preto -->
+  <rect width="800" height="200" fill="#0D1117" />
+
+  <!-- Grupo com a animação de "Chuva de Códigos" -->
+  <g font-family="monospace" font-size="14" fill="#00FF41">
+    <text x="50" y="0" opacity="0.8">
+      <animate attributeName="y" from="-200" to="200" dur="2s" repeatCount="indefinite" />
+      010010101010101010101010101010
+    </text>
+    <text x="150" y="-50" opacity="0.6">
+      <animate attributeName="y" from="-200" to="200" dur="2.5s" repeatCount="indefinite" />
+      110101010101010101010101010101
+    </text>
+    <text x="250" y="-100" opacity="0.9">
+      <animate attributeName="y" from="-200" to="200" dur="1.8s" repeatCount="indefinite" />
+      101010101010101010101010101010
+    </text>
+    <text x="350" y="-150" opacity="0.5">
+      <animate attributeName="y" from="-200" to="200" dur="3s" repeatCount="indefinite" />
+      010101010101010101010101010101
+    </text>
+    <text x="450" y="-80" opacity="0.7">
+      <animate attributeName="y" from="-200" to="200" dur="2.2s" repeatCount="indefinite" />
+      101010101010101010101010101010
+    </text>
+    <text x="550" y="-120" opacity="0.4">
+      <animate attributeName="y" from="-200" to="200" dur="2.8s" repeatCount="indefinite" />
+      010101010101010101010101010101
+    </text>
+    <text x="650" y="-180" opacity="0.8">
+      <animate attributeName="y" from="-200" to="200" dur="2.1s" repeatCount="indefinite" />
+      101010101010101010101010101010
+    </text>
+    <text x="750" y="-20" opacity="0.6">
+      <animate attributeName="y" from="-200" to="200" dur="2.6s" repeatCount="indefinite" />
+      010101010101010101010101010101
+    </text>
+  </g>
+
+  <!-- Seus Troféus do GitHub (renderizados em tempo real) -->
+  <foreignObject x="50" y="50" width="700" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%; height:100%; display:flex; justify-content:center; align-items:center;">
+      <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&amp;theme=matrix&amp;margin-w=10&amp;no-bg=false&amp;row=1&amp;column=6" alt="Troféus" style="max-width:100%; max-height:100%;" />
+    </div>
+  </foreignObject>
+</svg>

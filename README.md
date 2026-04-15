@@ -47,7 +47,7 @@
         <li>💡 Explorando o universo <strong>JavaScript/TypeScript</strong> e arquiteturas modernas.</li>
         <li>☁️ Estudando <strong>AWS, Docker e CI/CD</strong> para entregar aplicações escaláveis.</li>
         <li>🎮 Fã de jogos – o repositório <code>projeto-o-último-de-nós</code> não é coincidência! </li>
-        <li>📖 “Honra teu pai e tua mãe...” – Êxodo 20:12</li>
+        <li>📖 “Honra teu pai e tua mãe para que teus dias se prolonguem na terra.” – Êxodo 20:12</li>
       </ul>
     </td>
     <td>

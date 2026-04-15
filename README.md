@@ -16,145 +16,14 @@
 
 <br />
 
-<!-- ===== TERMINAL HACKER FORA DA CURVA ===== -->
-<div align="center">
-  <table style="border: none; border-collapse: collapse; background-color: #0D1117; border-radius: 12px; padding: 20px; box-shadow: 0 0 20px #00FF41;">
-    <tr>
-      <td align="center" style="border: none;">
-        <!-- Barra de título do terminal -->
-        <div style="display: flex; justify-content: space-between; background: #1A1F2A; padding: 8px 16px; border-radius: 8px 8px 0 0; border-bottom: 2px solid #00FF41;">
-          <span style="color: #00FF41; font-family: monospace;">root@ualace:~#</span>
-          <span style="color: #00FF41; font-family: monospace;">⚡ SYSTEM ONLINE ⚡</span>
-        </div>
-        
-        <!-- Conteúdo do terminal -->
-        <div style="background: #0D1117; padding: 20px; border-radius: 0 0 8px 8px;">
-          
-          <!-- Título com efeito glitch + typing -->
-          <div style="position: relative;">
-            <h1 style="font-family: 'Fira Code', monospace; font-size: 36px; font-weight: 800; color: #00FF41; text-shadow: 0 0 10px #00FF41, 0 0 20px #00FF41; letter-spacing: 4px; margin: 0;">
-              UÁLACE BRITO
-            </h1>
-            <!-- Camadas de glitch -->
-            <h1 style="position: absolute; top: 0; left: 0; right: 0; font-family: 'Fira Code', monospace; font-size: 36px; font-weight: 800; color: #FF0055; text-shadow: 0 0 10px #FF0055; opacity: 0.5; animation: glitch 2s infinite; margin: 0;" aria-hidden="true">UÁLACE BRITO</h1>
-            <h1 style="position: absolute; top: 0; left: 0; right: 0; font-family: 'Fira Code', monospace; font-size: 36px; font-weight: 800; color: #00FFFF; text-shadow: 0 0 10px #00FFFF; opacity: 0.5; animation: glitch 2s infinite reverse; margin: 0;" aria-hidden="true">UÁLACE BRITO</h1>
-          </div>
-          
-          <!-- Frase animada estilo hacker -->
-          <div style="margin: 16px 0;">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=600&lines=>_+STATUS:+ROOT+ACCESS+GRANTED;>_+COMPILING+TROPHIES...;>_+SYS.SECURE+++[OK];>_+HACK+THE+PLANET!+🌐" alt="Frases hacker animadas" />
-          </div>
-          
-          <!-- Fundo Matrix (SVG inline para máximo desempenho) -->
-          <div style="position: relative; margin: 20px 0;">
-            <svg width="100%" height="160" viewBox="0 0 800 160" preserveAspectRatio="xMidYMid slice" style="border-radius: 8px;">
-              <!-- Fundo escuro -->
-              <rect width="800" height="160" fill="#0D1117" />
-              
-              <!-- Chuva de caracteres (Matrix) -->
-              <g font-family="monospace" font-size="14" fill="#00FF41" opacity="0.6">
-                <text x="40" y="0">
-                  <animate attributeName="y" from="-200" to="200" dur="1.8s" repeatCount="indefinite" />
-                  010010101010101010101010101010
-                </text>
-                <text x="120" y="-30">
-                  <animate attributeName="y" from="-200" to="200" dur="2.2s" repeatCount="indefinite" />
-                  110101010101010101010101010101
-                </text>
-                <text x="200" y="-80">
-                  <animate attributeName="y" from="-200" to="200" dur="2.5s" repeatCount="indefinite" />
-                  101010101010101010101010101010
-                </text>
-                <text x="280" y="-120">
-                  <animate attributeName="y" from="-200" to="200" dur="1.5s" repeatCount="indefinite" />
-                  010101010101010101010101010101
-                </text>
-                <text x="360" y="-10">
-                  <animate attributeName="y" from="-200" to="200" dur="3.0s" repeatCount="indefinite" />
-                  101010101010101010101010101010
-                </text>
-                <text x="440" y="-70">
-                  <animate attributeName="y" from="-200" to="200" dur="2.0s" repeatCount="indefinite" />
-                  010101010101010101010101010101
-                </text>
-                <text x="520" y="-140">
-                  <animate attributeName="y" from="-200" to="200" dur="2.8s" repeatCount="indefinite" />
-                  101010101010101010101010101010
-                </text>
-                <text x="600" y="-50">
-                  <animate attributeName="y" from="-200" to="200" dur="1.9s" repeatCount="indefinite" />
-                  010101010101010101010101010101
-                </text>
-                <text x="680" y="-100">
-                  <animate attributeName="y" from="-200" to="200" dur="2.4s" repeatCount="indefinite" />
-                  101010101010101010101010101010
-                </text>
-                <text x="760" y="-20">
-                  <animate attributeName="y" from="-200" to="200" dur="2.7s" repeatCount="indefinite" />
-                  010101010101010101010101010101
-                </text>
-              </g>
-              
-              <!-- Camada de caracteres mais claros para profundidade -->
-              <g font-family="monospace" font-size="12" fill="#00AA33" opacity="0.3">
-                <text x="80" y="0">
-                  <animate attributeName="y" from="-200" to="200" dur="3.5s" repeatCount="indefinite" />
-                  }}{{}}{}{}}{}{}{}{}{}{}{}{}{}{}{}
-                </text>
-                <text x="160" y="-40">
-                  <animate attributeName="y" from="-200" to="200" dur="4.0s" repeatCount="indefinite" />
-                  ][][][][][][][][][][][][][][][]
-                </text>
-                <text x="320" y="-60">
-                  <animate attributeName="y" from="-200" to="200" dur="2.9s" repeatCount="indefinite" />
-                  ;:;:;:;:;:;:;:;:;:;:;:;:;:;:;
-                </text>
-                <text x="480" y="-90">
-                  <animate attributeName="y" from="-200" to="200" dur="3.3s" repeatCount="indefinite" />
-                  \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
-                </text>
-              </g>
-              
-              <!-- Troféus sobrepostos ao fundo -->
-              <foreignObject x="50" y="30" width="700" height="100">
-                <div xmlns="http://www.w3.org/1999/xhtml" style="width:100%; height:100%; display:flex; justify-content:center; align-items:center;">
-                  <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&amp;theme=matrix&amp;margin-w=10&amp;no-bg=true&amp;row=1&amp;column=6" alt="Troféus GitHub" style="max-width:100%; max-height:100%; filter: drop-shadow(0 0 10px #00FF41);" />
-                </div>
-              </foreignObject>
-            </svg>
-          </div>
-          
-          <!-- Linha de comando final -->
-          <p style="color: #00FF41; font-family: monospace; margin: 10px 0 0;">
-            <span style="color: #00FF41;">></span> <span style="background: #1A1F2A; padding: 2px 8px; border-radius: 4px;">./display_trophies --style=matrix --status=unlocked</span>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- CSS para animação de glitch (necessário para o efeito) -->
-<style>
-  @keyframes glitch {
-    0% { transform: translate(0); }
-    20% { transform: translate(-2px, 2px); }
-    40% { transform: translate(-2px, -2px); }
-    60% { transform: translate(2px, 2px); }
-    80% { transform: translate(2px, -2px); }
-    100% { transform: translate(0); }
-  }
-</style>
-
-<!-- Espaçamento para separar do restante -->
-<br />
 ---
 
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Engenharia de Software** – apaixonado por resolver problemas com código.
 - 🔭 Atualmente focado em desenvolvimento **Full Stack** com JavaScript, React e Node.js.
-- 🌱 Explorando **TypeScript**, **Next.js** e boas práticas de arquitetura de software.
+- 🌱 Explorando **TypeScript**, **Next.js**, **NestJS** e arquitetura de microsserviços.
+- ☁️ Estudando conceitos de **Cloud (AWS)**, **Docker** e **CI/CD**.
 - ✨ Curiosidade: sou fã de jogos e o nome do repositório `projeto-o-último-de-nós` não é por acaso! 🎮
 
 > *"Honra teu pai e tua mãe para que os teus dias se prolonguem na terra."*  
@@ -167,7 +36,7 @@
 <div align="center">
   <a href="https://github.com/UalaceBrito">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UalaceBrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UalaceBrito&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UalaceBrito&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
 
@@ -175,29 +44,154 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UalaceBrito&theme=tokyonight&hide_border=true&border_radius=10" alt="Sequência de contribuições" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&theme=tokyonight&no-frame=true&row=1&column=7" alt="Troféus do GitHub" />
+</div>
+
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 
-**Front-end**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="MUI" />
+      <br>MUI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+  </tr>
+</table>
 
-**Back-end & Banco de Dados**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Ferramentas & DevOps**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+> *Além dessas, estou sempre experimentando novas ferramentas e bibliotecas!*
 
 ---
 

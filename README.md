@@ -20,19 +20,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=3500&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=U%C3%81LACE+BRITO;ROOT+ACCESS+GRANTED;SYSTEM+ONLINE;TROPHY+VAULT+UNLOCKED" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <samp>
-    ╔══════════════════════════════════════════════════════════════╗<br />
-    ║  <b style="color:#00FF41;">>_ STATUS: CONECTADO À MATRIX                           </b> ║<br />
-    ║  <b style="color:#00FF41;">>_ COMPILANDO TROFÉUS... [████████████████████] 100%     </b> ║<br />
-    ║  <b style="color:#00FF41;">>_ FRASE DO DIA: "Hack the planet!" 🌐                    </b> ║<br />
-    ╚══════════════════════════════════════════════════════════════╝
-  </samp>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&theme=matrix&margin-w=10&no-bg=false&row=1&column=6" alt="Troféus do GitHub no tema Matrix" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UalaceBrito/UalaceBrito/main/matrix-trophy.svg" alt="Troféus com fundo Matrix" width="800">
+</div>
 ---
 
 ### 🧑‍💻 Sobre mim

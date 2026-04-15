@@ -17,7 +17,9 @@
 <br />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UalaceBrito&theme=algolia&margin-w=10&no-bg=true&row=1&column=6" alt="Troféus do GitHub" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <h3 align="center">🏆 Troféus do Perfil 🏆</h3>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ---
